@@ -16,6 +16,10 @@ Organizado por
 
 
 <div style="display: flex; flex-direction: row;">
+<a href="https://twitter.com/asciifdi?lang=en">
 <img src="https://github.com/UCppM/concurso-codigo-espagueti/assets/43295942/5cc5292c-bcaf-4c30-9765-70e6e7b8cdf0" style="width: 20%"/>
+</a>
+<a href="https://www.instagram.com/ucppm_/">
 <img src="https://github.com/UCppM/concurso-codigo-espagueti/assets/43295942/778a12b4-81ef-4d57-980b-068d0079e01d" style="width: 20%"/>
+</a>
 </div>
