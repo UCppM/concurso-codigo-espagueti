@@ -5,7 +5,7 @@
 > |---|---|
 
 Links importantes:
-- [Enunciado](https://github.com/UCppM/concurso-codigo-espagueti/blob/main/codigo_espageti.pdf)
+- [Enunciado](https://github.com/UCppM/concurso-codigo-espagueti/blob/main/codigo_espagueti.pdf)
 - [Descargar todos los archivos](https://github.com/UCppM/concurso-codigo-espagueti/archive/refs/heads/main.zip)
 - [Formulario de entrega](https://example.com)
 
