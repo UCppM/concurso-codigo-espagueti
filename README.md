@@ -4,6 +4,9 @@
 > | Fecha límite | 30 de abril |
 > |---|---|
 
+![image](https://github.com/UCppM/concurso-codigo-espagueti/assets/43295942/2875f1c1-b665-4b2b-8e1b-7621ed268ba8)
+
+
 Links importantes:
 - [Enunciado](https://github.com/UCppM/concurso-codigo-espagueti/blob/main/codigo_espagueti.pdf)
 - [Descargar todos los archivos](https://github.com/UCppM/concurso-codigo-espagueti/archive/refs/heads/main.zip)
